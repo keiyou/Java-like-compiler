@@ -1,4 +1,4 @@
-## Java-like-compiler
+# Java-like-compiler
 A Java-like compiler
 
 ## Install and Run Program:
