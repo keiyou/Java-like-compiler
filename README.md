@@ -15,7 +15,7 @@ make run
 ```shell
 make clean
 ```
-### To Compile and Run your code
+## To Compile and Run your own code
 ```shell
 ./lang < test.lang > code.s
 gcc -m32 -o test tester.c code.s
