@@ -15,3 +15,8 @@ make run
 ```shell
 make clean
 ```
+### To Compile and Run your code
+```shell
+./lang < test.lang > code.s
+gcc -m32 -o test tester.c code.s
+```
